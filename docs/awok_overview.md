@@ -1,12 +1,16 @@
 # awok Overview
 
-## Purpose
-awok is a knowledge management platform that models logical and probabilistic connections between units of knowledge.  A unit of knowledge can be a collection of documents, a single phrase, or anything in between.  The purpose of awok is to allow a user to accomplish any of the following goals:
+## Description
+awok is a knowledge management platform that models logical and probabilistic connections between units of knowledge.  A unit of knowledge is conceptually a proposition, but it is up to the user or user-programmed agent to decide what constitutes a proposition and what it means.  awok focuses not on the content of the propositions, but their logical relationships. For example, propositions A and B might be related by the logical relationship ```if A then B```. 
+
+## Objective
+The purpose of awok is to allow a user to accomplish any of the following goals:
 
 * __delineate__ the logical structure of documents, collections of documents, fragments of documents and other sets of text data;
 * __visualize__ such logical structures;
 * __validate__ such logical structures to determine if they are sound, and if not, identify the error;
-* __evaluate__ such logical structures to determine the truth or probability of potential conclusions given the truth or probability of selected premises; 
+* __evaluate__ such logical structures to determine the truth or probability of potential conclusions given the truth or probability of selected premises;
+* __explore__ what happens when assumptions are changed; 
 * __define__ abstract models of logical structures;
 * __apply__ such abstract models to new sets of knowledge; and
 * __export__ this value-added knowledge .
