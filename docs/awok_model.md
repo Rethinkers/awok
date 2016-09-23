@@ -6,7 +6,7 @@ awok sets out to model the logical structure of assemblages of information.  In 
 Mathematically, the awok model is a directed graph whose vertices are units of information and whose edges are logical relationships.
 
 ##Knowledge
-awok's model of knowledge is compatible with the traditional definition of knowledge as justified true belief.  However, awok's concern is primarily with justification.  Belief is a mental state, and awok does not claim to have a mind, so awok substitutes _intensional information_ for belief, i.e., information that can form the content of a mental state.  Regarding truth, awok places on the user the burden of designating certain units of information, premises and axioms, as being true or false; awok's judgements of truth are only as valid as the user's initial designations. 
+awok's model of knowledge is compatible with the traditional definition of knowledge as justified true belief.  However, awok's concern is primarily with justification.  Belief is a mental state, and awok does not claim to have a mind, so awok substitutes _intentional information_ for belief, i.e., information that can form the content of a mental state (__intentional__ is the philosophical term of art for mental content that is about something outside the mind).  Regarding truth, awok places on the user the burden of designating certain units of information, premises and axioms, as being true or false; awok's judgements of truth are only as valid as the user's initial designations. 
 
 ###Units of Knowledge
 awok defines a __unit of knowledge__ to be any of the following:
