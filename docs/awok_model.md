@@ -11,7 +11,7 @@ awok's model of knowledge is compatible with the traditional definition of knowl
 ###Units of Knowledge
 awok defines a __unit of knowledge__ to be any of the following:
 * A __fact__: a simple statement, for example statement A that x is y, or statement B that y is probably z.
-* A __rule__: a statement that relates the truth of one statement to that of another statement, for example statement C that if A is true then B is true, or more simply, if A then B.
+* A __rule__: a statement that relates the truth or probability of one statement to that of another statement, for example statement C that if A is true then B is true, or more simply, if A then B.
 * A __position__: a statement which is a conjunction of statements, for example statement D that statement A and statement C, that is, that x is y and if x is y then y is probably z.
 
 
